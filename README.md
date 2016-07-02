@@ -11,7 +11,6 @@
 * Add current_user to navbar
 * Move the sign in /signed out alert notification over
 * Modify the text size, color of sign in /signed out alert notification
-* Deploy on Heroku
- [a link](https://true-marks-57891.herokuapp.com/)
+* [Deployed on Heroku](https://true-marks-57891.herokuapp.com/) 
 * Correct BooksController show {.round(2) in order to properly round the rating}
 * Stars do not seem to work on all pages
